@@ -48,10 +48,7 @@ bool relaxed = allEdgesRelaxed(distances, G, 0);
 ## Testing
 
 Includes comprehensive Google Test suite covering edge cases for all major functions.
-```bash
-g++ -std=c++20 main.cpp -lgtest -lgtest_main -pthread -o test
-./test
-```
+
 
 ## Resources
 
